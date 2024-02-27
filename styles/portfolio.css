@@ -35,7 +35,7 @@ p {
 .welcome {
   background: var(--secondary-color);
   text-align: center;
-  padding: 160px 20px;
+  padding: 80px 20px;
 }
 .welcome p {
   font-size: 36px;
@@ -93,7 +93,7 @@ nav li.active a {
   font-family: var(--default-font-family);
 }
 .content-container {
-  padding: 160px 20px;
+  padding: 60px 20px;
 }
 .content-container p,
 a {
@@ -125,6 +125,7 @@ a {
   color: black;
   background: var(--branding-color);
 }
+
 .book-app-btn-branding {
   color: var(--branding-color);
   border: 1px solid var(--branding-color);
@@ -190,9 +191,6 @@ footer .social-links a:hover {
     font-size: 44px;
   }
 
-  .welcome {
-    padding: 80px 20px;
-  }
   .content-container {
     text-align: center;
     padding: 0;
